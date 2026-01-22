@@ -20,7 +20,7 @@ In my homelab, I simulate production-like systems to:
 
 It’s where I **experiment, learn from failures**, and develop the mental models I carry into real production environments.
 
-<img width="800" alt="ChatGPT Image Jan 22, 2026, 01_36_58 PM" src="https://github.com/user-attachments/assets/249a9976-2930-49e0-8746-d2bc890c02f1" />
+<img width="600" alt="ChatGPT Image Jan 22, 2026, 01_36_58 PM" src="https://github.com/user-attachments/assets/249a9976-2930-49e0-8746-d2bc890c02f1" />
 
 ## 🖥 DevOps Homelab
 
